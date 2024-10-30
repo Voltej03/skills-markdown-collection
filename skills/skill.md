@@ -30,7 +30,7 @@
 - [GeeksforGeeks](https://www.geeksforgeeks.org/html-tutorial/)
 - [Coursera](https://www.coursera.org/collections/learn-css/)
 
-# tej
+# Tejas KP
 
 **Skill**: C
 
