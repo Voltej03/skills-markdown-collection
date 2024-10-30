@@ -29,3 +29,13 @@
 **Resources:**
 - [GeeksforGeeks](https://www.geeksforgeeks.org/html-tutorial/)
 - [Coursera](https://www.coursera.org/collections/learn-css/)
+
+  # Tejas KP
+
+**Skill**: C
+
+**Reasons for learning**: To become a good backend developer
+
+**Resources:**
+- [CS50](https://cs50.harvard.edu/x/2024/weeks/1/)
+- [Coursera](https://www.coursera.org/specializations/c-programming)
