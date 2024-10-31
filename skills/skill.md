@@ -39,3 +39,15 @@
 - [Coursera](https://www.coursera.org/specializations/c-programming)
 
 **Reason for Learning**: I want to become proficient in frontend development.
+
+# Tejas K Prakash
+
+**Skill**: Python
+
+**Resources**:
+- [YouTube](https://www.youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0)
+- [Coursera](https://www.coursera.org/specializations/python)
+
+**Reason for Learning**: I want to become proficient in Backend development.
+
+
