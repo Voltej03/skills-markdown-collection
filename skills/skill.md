@@ -1,10 +1,10 @@
-# kartik shukla
+# Meghana
 
-**Skill**: JavaScript
+**Skill**: Java Script
 
 **Resources**:
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [JavaScript.info](https://javascript.info/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/javascript)
+- [javascript.info](https://javascript.info/)
 
 **Reason for Learning**: I want to become proficient in frontend development.
 
@@ -40,14 +40,39 @@
 
 **Reason for Learning**: I want to become proficient in frontend development.
 
+
+=======
+# Poorvika                                                                                                                                                              
+**Skill**:java                                                                                                                                                               
+**Reason for Learning**: Java is a solid precursor to other programming languages.
+- # Harsh Kumar
+
+**Skill**: C++
+
+**Reasons for learning**: TO gain the knowledge and pasia he paisa hoga ye soch ke haha.
+
+# Disha V Reddy
+
+**Skill**: java 
+
+**Reasons for learning**: core programming language ; flexible and versatile 
+
+# Swathi J
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/python)
+- [python.info](https://python.info/)
+
+**Reason for Learning**: I want to become Full Stack developer.
+
+
+
 # Tejas K Prakash
 
 **Skill**: Python
 
 **Resources**:
+
 - [YouTube](https://www.youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0)
 - [Coursera](https://www.coursera.org/specializations/python)
 
 **Reason for Learning**: I want to become proficient in Backend development.
-
 
